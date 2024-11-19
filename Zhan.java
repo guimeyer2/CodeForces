@@ -37,6 +37,6 @@ public class Zhan {
             System.out.println(resultado);
         }
         
-        sc.close();
+        sc.close();//teste git
     }
 }
